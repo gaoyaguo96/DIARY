@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ZUOJIANTOU.png</file>
+        <file>YOUJIANTOU.png</file>
+        <file>riji.png</file>
+        <file>SHUQIAN.png</file>
+        <file>STAR.png</file>
+        <file>zhebian.png</file>
+        <file>RIJIBEN.png</file>
+        <file>xiaoyou.png</file>
+        <file>xiaozuo.png</file>
+        <file>BAOCUN.png</file>
+    </qresource>
+</RCC>
